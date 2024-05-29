@@ -1,0 +1,2 @@
+# ScriptFilesFromTemplate
+Unityでテンプレートを読み込んで、スクリプトを作る事が出来るエディタ拡張。
