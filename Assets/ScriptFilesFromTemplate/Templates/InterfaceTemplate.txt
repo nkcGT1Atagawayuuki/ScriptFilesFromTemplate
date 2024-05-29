@@ -1,0 +1,6 @@
+// Interface Template
+
+public interface #SCRIPTNAME#
+{
+    void SampleMethod();
+}

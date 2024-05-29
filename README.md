@@ -1,2 +1,3 @@
 # ScriptFilesFromTemplate
 Unityでテンプレートを読み込んで、スクリプトを作る事が出来るエディタ拡張。
+今回のソースコードの内容について書いてある記事です。 https://qiita.com/game_hamster/items/d349fb7ca3c00b54abfd
